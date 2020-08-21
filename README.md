@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 📷 &nbsp; I am a photographer and i have international Distinctions: AFIAP - QPSA- GPU CR-2- Hon.WPG .
+- 📷 &nbsp; I am a Photographer and i have International Distinctions: AFIAP - QPSA - GPU CR2 - Hon.WPG .
 - 🎓 &nbsp; I love technology and learn programming languages, despite not studying it .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
