@@ -1,4 +1,4 @@
-h2> Hey there! I'm Abdulrahman Almabadi.</h2>
+<h2> Hey there! I'm Abdulrahman Almabadi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -49,8 +49,8 @@ h2> Hey there! I'm Abdulrahman Almabadi.</h2>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.im03th.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/im03th/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/im03th/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:im03th@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.im03th.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.im03th.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/im03th/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-im03th%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/im03th/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-im03th-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:im03th@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-im03th@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
