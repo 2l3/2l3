@@ -39,13 +39,6 @@
 
 <br/>
 
-<a href="https://github.com/2l3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2l3&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2l3&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
