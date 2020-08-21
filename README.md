@@ -21,6 +21,7 @@
 - 🖥 &nbsp;
   ![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom-cc)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Photoshop](https://img.shields.io/badge/-After Effects-333333?style=flat&logo=adobe-after-effects)
 
 <br/>
 
